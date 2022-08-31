@@ -1,0 +1,42 @@
+﻿@using Module_20_MVC.Data.Models;
+@model Worker
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8" />
+    <link href="~/css/MainStyleSheet.css" rel="stylesheet" />
+    <title>Worker</title>
+</head>
+<body>
+    <div class="container">
+        <table class="mainTable" border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Фамилия</th>
+                    <th>Имя</th>
+                    <th>Отчество</th>
+                    <th>Номер телефона</th>
+                    <th>Адрес</th>
+                    <th>Описание</th>
+                </tr>
+            </thead>
+            <tr>
+
+                <td>@Model.Id</td>ss
+                <td>@Model.LastName</td>
+                <td>@Model.Name</td>
+                <td>@Model.FatherName</td>
+                <td>@Model.PhoneNumber</td>
+                <td>@Model.Address</td>
+                <td>@Model.Note</td>
+
+
+            </tr>
+
+
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿@using Module_20_MVC.Data.Models
+@model Worker
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8"/>
+    <link href="~/css/MainStyleSheet.css" rel="stylesheet" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container">
+        <table class="mainTable" border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Фамилия</th>
+                    <th>Имя</th>
+                    <th>Отчество</th>
+                </tr>
+            </thead>
+
+            @foreach (var item in Model.AllWorkers())
+            {
+                <tr>
+
+                    <td>
+                        @Html.ActionLink($"{item.Id}", "Worker", "Home", new { id = item.Id }, null);
+                    </td>
+                    <td>@item.LastName</td>
+                    <td>@item.Name</td>
+                    <td>@item.FatherName</td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</body>
+</html>

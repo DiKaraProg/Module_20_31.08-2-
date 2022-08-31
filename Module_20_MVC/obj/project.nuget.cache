@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OT5Qq8gauwfYy9p5FTcJh5KYNx8X+VE5Y1fsEtcHjl9cs5yMvY7b9/AVfUbYW6grtRx13gSdVTkkwH2KA7Tow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Димас\\Downloads\\Обучение програмированию\\Module_20_MVC\\Module_20_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Димас\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

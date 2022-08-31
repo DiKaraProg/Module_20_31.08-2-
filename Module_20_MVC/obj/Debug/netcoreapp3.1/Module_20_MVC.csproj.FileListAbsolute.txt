@@ -1,0 +1,67 @@
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.csproj.AssemblyReference.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.AssemblyInfoInputs.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.AssemblyInfo.cs
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorAssemblyInfo.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorAssemblyInfo.cs
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.exe
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.deps.json
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.runtimeconfig.json
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.runtimeconfig.dev.json
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.dll
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.pdb
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.Views.dll
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.Views.pdb
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\staticwebassets\Module_20_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\staticwebassets\Module_20_MVC.StaticWebAssets.xml
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\Module_20_MVC.styles.css
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.TagHelpers.input.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.TagHelpers.output.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorCoreGenerate.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.Views.pdb
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.csproj.CopyComplete
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.dll
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.pdb
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.genruntimeconfig.cache
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Димас\source\repos\Module_20_MVC\Module_20_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Worker.cshtml.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.StaticWebAssets.xml
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.exe
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.deps.json
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.runtimeconfig.json
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.runtimeconfig.dev.json
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.Views.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Module_20_MVC.Views.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.csproj.AssemblyReference.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.AssemblyInfoInputs.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.AssemblyInfo.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorAssemblyInfo.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorAssemblyInfo.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\staticwebassets\Module_20_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.TagHelpers.input.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.TagHelpers.output.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorCoreGenerate.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Worker.cshtml.g.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.Views.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.csproj.CopyComplete
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.dll
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.pdb
+C:\Users\Димас\Downloads\Обучение програмированию\Module_20_MVC\obj\Debug\netcoreapp3.1\Module_20_MVC.genruntimeconfig.cache
